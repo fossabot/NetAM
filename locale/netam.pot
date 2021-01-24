@@ -16,6 +16,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
+msgid "Account management"
+msgstr ""
+
 msgid "Action"
 msgstr ""
 
@@ -37,13 +40,13 @@ msgstr ""
 msgid "Address Table"
 msgstr ""
 
+msgid "Admin"
+msgstr ""
+
 msgid "Admin Backups"
 msgstr ""
 
 msgid "Admin Center"
-msgstr ""
-
-msgid "Admin Jobs"
 msgstr ""
 
 msgid "Affected sections"
@@ -94,6 +97,9 @@ msgstr ""
 msgid "Close"
 msgstr ""
 
+msgid "Code #%{id}"
+msgstr ""
+
 msgid "Color"
 msgstr ""
 
@@ -103,7 +109,13 @@ msgstr ""
 msgid "Connected"
 msgstr ""
 
+msgid "Current Password"
+msgstr ""
+
 msgid "DHCP"
+msgstr ""
+
+msgid "Danger zone"
 msgstr ""
 
 msgid "Define as device"
@@ -122,9 +134,6 @@ msgid "Depth type"
 msgstr ""
 
 msgid "Description"
-msgstr ""
-
-msgid "Destroy"
 msgstr ""
 
 msgid "Device type"
@@ -160,16 +169,13 @@ msgstr ""
 msgid "Devices list"
 msgstr ""
 
+msgid "Devices type"
+msgstr ""
+
 msgid "Devices type list"
 msgstr ""
 
-msgid "Disable"
-msgstr ""
-
 msgid "Disable TOTP"
-msgstr ""
-
-msgid "Disabled"
 msgstr ""
 
 msgid "Down"
@@ -211,25 +217,13 @@ msgstr ""
 msgid "Email"
 msgstr ""
 
-msgid "Enable"
-msgstr ""
-
 msgid "Enable TOTP"
-msgstr ""
-
-msgid "Enabled"
-msgstr ""
-
-msgid "Error"
 msgstr ""
 
 msgid "Export"
 msgstr ""
 
 msgid "FQDN"
-msgstr ""
-
-msgid "File"
 msgstr ""
 
 msgid "First IP"
@@ -271,25 +265,19 @@ msgstr ""
 msgid "IP used"
 msgstr ""
 
-msgid "Ignore rackspace management when is empty"
-msgstr ""
-
 msgid "Import"
 msgstr ""
 
 msgid "Import usages with CSV"
 msgstr ""
 
-msgid "Job"
-msgstr ""
-
-msgid "Jobs"
-msgstr ""
-
 msgid "Last IP"
 msgstr ""
 
 msgid "Last scan time"
+msgstr ""
+
+msgid "Last sign in"
 msgstr ""
 
 msgid "Load Average"
@@ -319,9 +307,6 @@ msgstr ""
 msgid "MAC Vendor Lookup"
 msgstr ""
 
-msgid "Mac Address Prefix"
-msgstr ""
-
 msgid "Mask"
 msgstr ""
 
@@ -331,7 +316,7 @@ msgstr ""
 msgid "Memory"
 msgstr ""
 
-msgid "My home network"
+msgid "My account"
 msgstr ""
 
 msgid "NO"
@@ -347,6 +332,9 @@ msgid "NetAM control node"
 msgstr ""
 
 msgid "Network"
+msgstr ""
+
+msgid "Network information"
 msgstr ""
 
 msgid "New Section"
@@ -373,10 +361,10 @@ msgstr ""
 msgid "New rackspace"
 msgstr ""
 
-msgid "No free address IP available !"
+msgid "Next"
 msgstr ""
 
-msgid "No matching vendor"
+msgid "No free address IP available !"
 msgstr ""
 
 msgid "No worker assigned"
@@ -385,13 +373,16 @@ msgstr ""
 msgid "None"
 msgstr ""
 
-msgid "Notice"
+msgid "OTP Secret"
 msgstr ""
 
 msgid "OTP code"
 msgstr ""
 
 msgid "Password"
+msgstr ""
+
+msgid "Password Again "
 msgstr ""
 
 msgid "Password confirmation"
@@ -412,6 +403,12 @@ msgstr ""
 msgid "Please validate TOTP code !"
 msgstr ""
 
+msgid "Previous"
+msgstr ""
+
+msgid "Qrcode"
+msgstr ""
+
 msgid "Queues"
 msgstr ""
 
@@ -419,6 +416,9 @@ msgid "Rack Height"
 msgstr ""
 
 msgid "Rack anchor"
+msgstr ""
+
+msgid "Rack occupation management"
 msgstr ""
 
 msgid "Rackspace"
@@ -445,13 +445,7 @@ msgstr ""
 msgid "Release"
 msgstr ""
 
-msgid "Requested MAC Prefix %{mac}"
-msgstr ""
-
-msgid "Requirements"
-msgstr ""
-
-msgid "Reserved"
+msgid "Requested MAC Prefix"
 msgstr ""
 
 msgid "Run notification on run_scan"
@@ -469,13 +463,25 @@ msgstr ""
 msgid "Scan complete"
 msgstr ""
 
+msgid "Scan finished !"
+msgstr ""
+
 msgid "Scan in progress"
 msgstr ""
 
 msgid "Scan was successfully scheduled."
 msgstr ""
 
+msgid "Scanner port"
+msgstr ""
+
+msgid "Scanner type"
+msgstr ""
+
 msgid "Schedule"
+msgstr ""
+
+msgid "Search..."
 msgstr ""
 
 msgid "Secret: %{otp_secret}"
@@ -493,7 +499,7 @@ msgstr ""
 msgid "Sections linked to %{name} (#%{vid})"
 msgstr ""
 
-msgid "Setup"
+msgid "Setup NetAM"
 msgstr ""
 
 msgid "Setup finished"
@@ -538,9 +544,6 @@ msgstr ""
 msgid "Unit height"
 msgstr ""
 
-msgid "Unknown state"
-msgstr ""
-
 msgid "Usage"
 msgstr ""
 
@@ -551,9 +554,6 @@ msgid "Usage was successfully destroyed."
 msgstr ""
 
 msgid "Usage was successfully updated."
-msgstr ""
-
-msgid "Used"
 msgstr ""
 
 msgid "User Email"
@@ -568,10 +568,10 @@ msgstr ""
 msgid "Validate"
 msgstr ""
 
-msgid "Vendor"
+msgid "View"
 msgstr ""
 
-msgid "View"
+msgid "Vlan"
 msgstr ""
 
 msgid "Vlan ID"
@@ -610,7 +610,7 @@ msgstr ""
 msgid "YES"
 msgstr ""
 
-msgid "Youhou !"
+msgid "You can skip rackspace management fields"
 msgstr ""
 
 msgid "Your address IP is"
